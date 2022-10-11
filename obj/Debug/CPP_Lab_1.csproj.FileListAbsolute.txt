@@ -1,0 +1,11 @@
+D:\ddpu\ККП\Лаб\CPP_Lab_1\bin\Debug\CPP_Lab_1.exe.config
+D:\ddpu\ККП\Лаб\CPP_Lab_1\bin\Debug\CPP_Lab_1.exe
+D:\ddpu\ККП\Лаб\CPP_Lab_1\bin\Debug\CPP_Lab_1.pdb
+D:\ddpu\ККП\Лаб\CPP_Lab_1\obj\Debug\CPP_Lab_1.csproj.AssemblyReference.cache
+D:\ddpu\ККП\Лаб\CPP_Lab_1\obj\Debug\CPP_Lab_1.csproj.SuggestedBindingRedirects.cache
+D:\ddpu\ККП\Лаб\CPP_Lab_1\obj\Debug\CPP_Lab_1.Properties.Resources.resources
+D:\ddpu\ККП\Лаб\CPP_Lab_1\obj\Debug\CPP_Lab_1.csproj.GenerateResource.cache
+D:\ddpu\ККП\Лаб\CPP_Lab_1\obj\Debug\CPP_Lab_1.csproj.CoreCompileInputs.cache
+D:\ddpu\ККП\Лаб\CPP_Lab_1\obj\Debug\CPP_Lab_1.exe
+D:\ddpu\ККП\Лаб\CPP_Lab_1\obj\Debug\CPP_Lab_1.pdb
+D:\ddpu\ККП\Лаб\CPP_Lab_1\obj\Debug\CPP_Lab_1.Form1.resources
